@@ -2,7 +2,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IARC-CSU/ANCR-Workshop/HEAD?urlpath=%2Fdoc%2Ftree%2Fnordcan_api_tutorial.ipynb)
 
-A step-by-step hands-on tutorial for querying the official **IARC / ANCR NORDCAN REST API (v9.5.1)** and building publication-grade interactive epidemiological visualizations in Python.
+A step-by-step hands-on tutorial for querying the official **IARC NORDCAN REST API (v9.5.1)** and building publication-grade interactive epidemiological visualizations in Python.
 
 ---
 
