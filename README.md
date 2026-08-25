@@ -47,7 +47,7 @@ To run the tutorial locally on your own computer:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<username>/ANCR-Workshop.git
+git clone https://github.com/IARC-CSU/ANCR-Workshop.git
 cd ANCR-Workshop
 
 # 2. Create and activate a virtual environment
