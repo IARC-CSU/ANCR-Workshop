@@ -10,7 +10,7 @@ A step-by-step hands-on tutorial for querying the official **IARC NORDCAN REST A
 
 You can run the tutorial interactively in your browser with zero installation or account requirements:
 
-1. Push this repository to your GitHub account (e.g. `https://github.com/IARC-CSU//ANCR-Workshop`).
+1. Push this repository to your GitHub account (e.g. `https://github.com/IARC-CSU/ANCR-Workshop`).
 2. Go to **[mybinder.org](https://mybinder.org)** and paste your repository URL.
 3. In the **"Path to a notebook file"** field, enter: `nordcan_api_tutorial.ipynb`.
 4. Click **Launch** to start an interactive JupyterLab session.
