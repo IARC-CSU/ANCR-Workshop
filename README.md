@@ -2,7 +2,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IARC-CSU/ANCR-Workshop/HEAD?urlpath=%2Fdoc%2Ftree%2Fnordcan_api_tutorial.ipynb)
 
-A step-by-step hands-on tutorial for querying the official **IARC NORDCAN REST API (v9.5.1)** and building publication-grade interactive epidemiological visualizations in Python.
+A step-by-step hands-on tutorial for querying the official **IARC NORDCAN REST API (v9.6)** and building publication-grade interactive epidemiological visualizations in Python.
 
 ---
 
@@ -19,7 +19,7 @@ You can run the tutorial interactively in your browser with zero installation or
 
 ## Tutorial Overview (`nordcan_api_tutorial.ipynb`)
 
-This notebook guides participants through the complete data science pipeline using a real-world cancer registry case study: **Top 10 Cancer Mortality Sites for Females in Finland (Crude Rates, 1953–2023)**.
+This notebook guides participants through the complete data science pipeline using a real-world cancer registry case study: **Top 10 Cancer Mortality Sites for Females in Finland (Crude Rates, 1953–2024)**.
 
 ### What You Will Learn:
 1. **REST API Architecture**:
@@ -33,9 +33,9 @@ This notebook guides participants through the complete data science pipeline usi
 5. **Data Structuring with Pandas**:
  - Clean, type, and structure 3,600+ JSON records into an analysis-ready DataFrame.
 6. **Epidemiological Ranking**:
- - Dynamically identify the most recent recording year (2023) and rank the top 10 causes of cancer death in Finland.
+ - Dynamically identify the most recent recording year (2024) and rank the top 10 causes of cancer death in Finland.
 7. **Publication-Grade Plotly Trendlines**:
- - Build interactive trend charts with **direct line endpoint labels** (pinned to year 2023) and **rich hover tooltips** (Cancer Site, Year, Crude Rate per 100k, Total Deaths, ASR-World).
+ - Build interactive trend charts with **direct line endpoint labels** (pinned to year 2024) and **rich hover tooltips** (Cancer Site, Year, Crude Rate per 100k, Total Deaths, ASR-World).
 8. **Data Export & Interactive Tables**:
  - Download the curated dataset directly in the browser as a CSV file (`finland_female_cancer_mortality_top10.csv`) and explore with interactive `itables`.
 
